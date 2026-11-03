@@ -1,0 +1,2 @@
+Temporary permission test.
+Created by GitHub MCP.
